@@ -4,7 +4,7 @@
 
 - 🔭 Estudando **Git**, **Docker**, **Kubernetes** e, em janeiro, começo **AWS**.
 - 🌱 Aqui posto meus labs, testes e tudo que venho aprendendo no caminho.
-- 🌱 Atualmente estou trabalhando em projetos desenvolvidos em cursos e em Janeiro/2026 serão projetos em AWS
+- 👯 Atualmente estou trabalhando em projetos desenvolvidos em cursos e em Janeiro/2026 serão projetos em AWS
 - 📫 Entre em contato comigo por e-mail eduardolfl@gmail.com
 
 
