@@ -1,4 +1,4 @@
-## Olá, sou Eduardo 👋
+## Olá, sou o Eduardo 👋
 
 **Infra → DevOps**
 
